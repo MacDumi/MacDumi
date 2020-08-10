@@ -7,9 +7,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="dumitruduca.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="envelope.svg" />][mail]
+[<img align="left" alt="dumitruduca.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />] [https://dumitruduca.com]
+[<img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="mail" width="22px" src="https://cdn.onlinewebfonts.com/svg/img_248319.png" />][mail]
 
 <br />
 
@@ -30,6 +30,5 @@
 
 <br />
 <br />
-[website]: https://dumitruduca.com
 [linkedin]: https://www.linkedin.com/in/dumitru-duca-2b5bbb124
 [mail]: mailto:me@dumitruduca.com
