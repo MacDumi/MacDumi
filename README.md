@@ -2,7 +2,7 @@
 
 ## I'm a PhD candidate and Data Scientist!
 - 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate with other developers and work on interesting projects
+- 🤜🤛 I’m looking to collaborate with other developers and work on interesting projects
 - 🥅 One of my goals is to contribute more to Open Source projects
 
 ### Connect with me:
