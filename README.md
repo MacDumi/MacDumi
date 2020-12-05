@@ -1,6 +1,6 @@
 ### Hi there, I'm Dumitru - aka [MacDumi][website]
 
-## I'm a PhD candidate and Data Scientist!
+## I'm a Data Science enthusiast with a PhD in Physics
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creator
 - 🥅 One of my goals is to contribute more to Open Source projects
